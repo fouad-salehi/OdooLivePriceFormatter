@@ -42,3 +42,11 @@ Displayed instantly as:
 | 25000      | 25,000          |
 | 1234567    | 1,234,567       |
 | 999999999  | 999,999,999     |
+
+## Installation
+
+1. Copy the `OdooLivePriceFormatter` directory into your Odoo addons path.
+2. Restart the Odoo server.
+3. Enable Developer Mode.
+4. Go to **Apps** and click **Update Apps List**.
+5. Search for **Odoo Live Price Formatter** and install the module.
