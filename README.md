@@ -50,3 +50,5 @@ Displayed instantly as:
 3. Enable Developer Mode.
 4. Go to **Apps** and click **Update Apps List**.
 5. Search for **Odoo Live Price Formatter** and install the module.
+
+## Vesrions of this project: MAINv, OCAv
