@@ -51,4 +51,18 @@ Displayed instantly as:
 4. Go to **Apps** and click **Update Apps List**.
 5. Search for **Odoo Live Price Formatter** and install the module.
 
-***Vesrions of this project: MAINv, OCAv***
+## Versions
+
+Available in two flavors:
+
+- **MAINv** — main development version (latest features).
+- **OCAv** — OCA-compliant version (community standards).
+
+## Author
+
+[**Fouad Salehi**](https://github.com/fouad-salehi)
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
