@@ -8,6 +8,10 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
+<img width="1376" height="688" alt="Odoo Live Price Formatter - Real-time thousands separator formatting for Odoo price fields" src="https://github.com/user-attachments/assets/4345d9dc-a1cb-4d6a-a104-b856979fcc14" />
+
+
+
 ## Overview
 
 This module automatically formats numeric price inputs while the user is typing. As soon as a value is entered, thousands separators (`,`) are added in real time, improving readability and reducing input errors.
