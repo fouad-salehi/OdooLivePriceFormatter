@@ -1,4 +1,5 @@
 # Odoo Live Price Formatter
+
 ![Odoo](https://img.shields.io/badge/Odoo-18.0-714B67)
 ![Tested](https://img.shields.io/badge/Tested%20On-Odoo%2018-success)
 ![Type](https://img.shields.io/badge/Type-Odoo%20Addon-blue)
@@ -10,8 +11,6 @@
 
 <img width="1376" height="688" alt="Odoo Live Price Formatter - Real-time thousands separator formatting for Odoo price fields" src="https://github.com/user-attachments/assets/4345d9dc-a1cb-4d6a-a104-b856979fcc14" />
 
-
-
 ## Overview
 
 This module automatically formats numeric price inputs while the user is typing. As soon as a value is entered, thousands separators (`,`) are added in real time, improving readability and reducing input errors.
@@ -20,13 +19,13 @@ This module automatically formats numeric price inputs while the user is typing.
 
 Input:
 
-```
+```text
 1000000
 ```
 
 Displayed instantly as:
 
-```
+```text
 1,000,000
 ```
 
@@ -41,7 +40,7 @@ Displayed instantly as:
 ## Supported Examples
 
 | User Input | Displayed Value |
-| ---------- | --------------- |
+| :--------- | :-------------- |
 | 1000       | 1,000           |
 | 25000      | 25,000          |
 | 1234567    | 1,234,567       |
@@ -55,17 +54,17 @@ Displayed instantly as:
 4. Go to **Apps** and click **Update Apps List**.
 5. Search for **Odoo Live Price Formatter** and install the module.
 
-## Versions
-
-Available in two flavors:
-
-- **MAINv** — main development version (latest features).
-- **OCAv** — OCA-compliant version (community standards).
+> [!NOTE]
+> **Versions**
+>
+> Available in two flavors:
+>
+> - **MAINv** — main development version (latest features).
+> - **OCAv** — OCA-compliant version (community standards).
 
 ## Author
 
 [**Fouad Salehi**](https://github.com/fouad-salehi)
-
 
 ## License
 
