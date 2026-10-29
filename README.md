@@ -1,4 +1,4 @@
-# Odoo Live Price Formatter
+# odoo-live-price-formatter
 
 ![Odoo](https://img.shields.io/badge/Odoo-18.0-714B67)
 ![Tested](https://img.shields.io/badge/Tested%20On-Odoo%2018-success)
